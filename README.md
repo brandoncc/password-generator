@@ -9,7 +9,7 @@ https://github.com/first20hours/google-10000-english/
 Usage:
 
 ```ruby
-ruby password_generator [number of words to generate string from]
+ruby password_generator.rb [number of words to generate string from]
 ```
 
 The default number of words is 2, and the minimum length of each word is
