@@ -1,5 +1,5 @@
 A password generator which is based on the premise that random words together
-are secure. This will generate randomly capitalized passwords which a 1-3 digit
+are secure. This will generate randomly capitalized passwords with a 1-3 digit
 number at the end of the string.
 
 Credits:
