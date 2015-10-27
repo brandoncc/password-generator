@@ -1,4 +1,4 @@
-number_of_words = Integer(ARGV[0]) rescue 4
+number_of_words = Integer(ARGV[0]) rescue 2
 
 words = File.open('google-10000-english-usa.txt', 'r') do |f|
   f.readlines.map(&:strip).select { |w| w.length > 5 }

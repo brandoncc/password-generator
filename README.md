@@ -12,5 +12,5 @@ Usage:
 ruby password_generator [number of words to generate string from]
 ```
 
-The default number of words is 4, and the minimum length of each word is
+The default number of words is 2, and the minimum length of each word is
 hard-coded to be 5 characters.
